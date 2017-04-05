@@ -30,7 +30,7 @@ from plotly.graph_objs import *
 
 ```python
 # Plotly token
-plotly.tools.set_credentials_file(username='jie.hu000', api_key='O4icJnQs8RrNSuxXniAS')
+plotly.tools.set_credentials_file(username='your account', api_key='your token')
 ```
 
 <a id='Dataset'>Dataset</a>
